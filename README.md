@@ -1,4 +1,4 @@
-API URL: https://preethimunnaluri-tds-project1.hf.space
+API URL: https://preethimunnaluri-tds-project1.hf.space/ready
 
 .env file format:
 
