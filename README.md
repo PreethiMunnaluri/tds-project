@@ -1,4 +1,4 @@
-API URL: API URL: https://vedika0431-llmgen.hf.space/ready
+API URL: https://preethimunnaluri-tds-project1.hf.space
 
 .env file format:
 
